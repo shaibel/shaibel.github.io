@@ -1,0 +1,3 @@
+[submodule "opening-trainer"]
+	path = opening-trainer
+	url = https://github.com/shaibel/opening-trainer.git
